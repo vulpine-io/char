@@ -1,3 +1,5 @@
 = ASCII Char Utils
 
+image:https://goreportcard.com/badge/github.com/vulpine-io/char["Go Report Card", link="https://goreportcard.com/report/github.com/vulpine-io/char"]
+
 Common utilities for checking byte values against standard ASCII character sets.
