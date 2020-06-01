@@ -1,5 +1,7 @@
 = ASCII Char Utils
 
+image:https://img.shields.io/badge/go-docs-ff69b4["Go Docs", link="https://pkg.go.dev/github.com/vulpine-io/char"]
 image:https://goreportcard.com/badge/github.com/vulpine-io/char["Go Report Card", link="https://goreportcard.com/report/github.com/vulpine-io/char"]
+image:https://img.shields.io/github/v/tag/vulpine-io/char[Latest Tag]
 
 Common utilities for checking byte values against standard ASCII character sets.
