@@ -1,0 +1,1 @@
+module "github.com/vulpine-io/char"
