@@ -192,4 +192,5 @@ const (
 	BraceRight      = CurlyBraceClose
 	CurlyBraceLeft  = CurlyBraceOpen
 	CurlyBraceRight = CurlyBraceClose
+	Pipe            = VerticalBar
 )
