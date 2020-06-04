@@ -180,7 +180,7 @@ const (
 
 // ASCII Printable Symbols 4 (123-127).
 const (
-	CurlyBraceOpen = '{' + iota
+	CurlyBraceOpen byte = '{' + iota
 	VerticalBar
 	CurlyBraceClose
 	Tilde
